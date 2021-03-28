@@ -1,0 +1,1 @@
+# QRcodeReader_document
